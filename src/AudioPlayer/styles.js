@@ -39,7 +39,7 @@ export const styles = StyleSheet.create({
     left: -1,
     width: 30,
     height: 1,
-    borderBottomColor: '#fff',
+    borderBottomColor: '#383838',
     borderBottomWidth: 2,
   },
   volumeControlContainer: {
@@ -63,7 +63,7 @@ export const styles = StyleSheet.create({
     width: '50%',
   },
   timeText: {
-    color: '#fff',
+    color: '#383838',
     fontSize: 18,
   },
   playIcon: { height: 30, width: 30, resizeMode: 'contain' },
